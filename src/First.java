@@ -1,6 +1,8 @@
 public abstract class First {
     public void first() {
-        System.out.println("rrrrrrrrrrr");
+
+        System.out.println("1111111");
+
     }
 
 }
